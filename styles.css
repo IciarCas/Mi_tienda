@@ -1,0 +1,60 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tienda {
+  text-align: center;
+}
+.menu {
+  position: fixed;
+  list-style: none;
+}
+.select {
+  border: none;
+}
+.articles {
+  text-align: center;
+  color: darkgray;
+  font-size: 11px;
+}
+.imagen {
+  width: 300px;
+  height: 380px;
+}
+.tarjeta {
+  font-size: 11px;
+}
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.diez {
+  text-align: center;
+  margin-top: 9%;
+  margin-bottom: 12%;
+}
+.line {
+  width: 400px;
+}
+input {
+  outline: none;
+}
+.further {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.info {
+  list-style: none;
+  font-size: 13px;
+  gap: 100%;
+}
+.tiny {
+  font-size: 11px;
+}
+.number {
+  font-size: 10px;
+}
+.schedule {
+  font-size: 10px;
+}
